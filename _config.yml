@@ -1,2 +1,4 @@
 name: Angel York
 markdown: kramdown
+
+theme: jekyll-theme-minimal
