@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Angel York</title>
+    
+    <link rel="stylesheet" type="text/css" href="/css/main.css">
+  
+  </head>
+
+
+  <body>
+    <nav>
+<ul>
+<li><a href="/">Home</a></li>
+<li><a href="/about">About</a></li>
+<li><a href="/dog-walking">Dog Walking</a></li>
+</ul>
+    </nav>
+<div class="container">
+
+  		<div class="bookmarks">
+			<h1>Bookmarks</h1>
+		
+    <h2>jobs</h2>
+<ul> <a href="https://www.flexjobs.com/">FlexJobs</a> - remote jobs, disappointing companies
+	<li> <a href="http://www.backdoorjobs.com/">Backdoorjobs</a> - a few assorted idealistic jobs
+  <li> <a href="https://www.coolworks.com/">CoolWorks</a> - this still exists
+<li> <a href="https://www.idealist.org/en/">Idealist</a> - assorted jobs with nonprofits, everywhere
+<li> <a href="https://www.macslist.org/">Mac's List</a> - nonprofit jobs in Portland
+	<li> <a href="https://poachedjobs.com/jobs/all/portland+or">Poached</a> - restaurant jobs (link goes to Portland jobs)
+</ul>
+
+<h2>places and pseudo-jobs</h2>
+<ul>
+<li><a href="https://odiyan.org/volunteer/">Odiyan</a> - Northern California
+<li><a href="https://www.caretaker.org/main.php?smPID=DBS::WELCOME&=">Caretaker Gazette</a> - everywhere
+<li>
+<li>
+<li>
+</ul>
+		
+   <h2>tabula rasa</h2>
+<ul>
+<li><a href=""></a>
+<li><a href=""></a>
+<li><a href=""></a>
+<li><a href=""></a>
+<li><a href=""></a>
+</ul> 
+			
+		</div>
+
+
+</div>
+  
+  <footer>
+  <!-- <ul>
+   <li><a href="mailto:aniola@gmail.com">email</a></li>
+   <li><a href="https://RainbowHouseDreams.com">Rainbow House Dreams</a></li>
+   </ul> -->
+  </footer>
+  </body>
+
+</html>
